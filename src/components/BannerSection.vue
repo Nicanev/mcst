@@ -13,7 +13,7 @@
         <img src="@/assets/img/banners/maxresdefault.jpg" alt="" />
       </SwiperSlide>
       <SwiperSlide>
-        <img src="@/assets/img/banners/maxresdefault.jpg" alt="" />
+        <img src="@/assets/img/banners/124783_O.jpg" alt="" />
       </SwiperSlide>
       <div class="banner__pagination"></div>
     </Swiper>
